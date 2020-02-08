@@ -1,7 +1,7 @@
 # winterofcode
 This ocumentation contains all details of each file in the project
 
-#KNN in Python
+## KNN in Python
 class name: KNN
 This class accepts three arguments from the user.
 1.Training Set: The training set must be in format of matrix which contains number of training example along column and the pixels along the row.
@@ -13,7 +13,7 @@ This class accepts three arguments from the user.
 This class contains a method (method_name : knn ). This method do not accept any arguments. It just outputs the value predicted by the algorithm. 
 
 
-#Linear Regression In Python
+## Linear Regression In Python
 class_name: Linear_Regression_train:
 This class accepts two arguments:
 1. alpha:  Learning rate. Its default value is set to 0.001.
@@ -26,7 +26,7 @@ This class contains two methods:
 2. accuracy(): Returns the accuracy of the model. 
 
 
-#Logistic Regression In Python
+## Logistic Regression In Python
 class_name: Logistic_Regression_train:
 This class accepts two arguments:
 1. alpha:  Learning rate. Its default value is set to 0.001.
@@ -38,7 +38,7 @@ This module contains two methods:
 2.Predicted(): Returns the predicted value of y
 
 
-#Neural Network in Python(two layer model)
+## Neural Network in Python(two layer model)
 class_name: neural_network_train(label,Z,iters)
 This class accepts four arguments from the user:
 1.label: This accepts the vectorized form of the desired output. 
@@ -53,7 +53,7 @@ This class contains three methods:
 3. accuracy(): This method returns the accuracy of model in percentage.
 
 
-#Neural Network L layer( l Layer model)
+## Neural Network L layer( l Layer model)
 class_name: l_layer(label,n,iters)
 This class accepts four arguments from the user.
 1.label: This accepts the vectorized form of the desired output. 
